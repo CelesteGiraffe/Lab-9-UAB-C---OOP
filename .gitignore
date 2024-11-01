@@ -1,0 +1,11 @@
+/build/
+CMakeLists.txt
+
+/googletest/
+
+*.o
+*.obj
+*.log
+
+*.tmp
+*.temp
